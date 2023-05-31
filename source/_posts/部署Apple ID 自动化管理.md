@@ -4,24 +4,10 @@ tags:
   - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号。
 categories:
   - 源码搭建
-date: 2022-10-10 11:11:11
-updated: 2022-12-10 11:11:11
+date: 2023-05-30 18:19:03
+updated: 2023-05-30 22:00:00
 ---
 <h1 align="center">Apple ID 自动化管理</h1>
-<p align="center">
-    <a href="https://github.com/pplulee/appleid_auto/issues" style="text-decoration:none">
-        <img src="https://img.shields.io/github/issues/pplulee/appleid_auto.svg" alt="GitHub issues"/>
-    </a>
-    <a href="https://github.com/pplulee/appleid_auto/stargazers" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/stars/pplulee/appleid_auto.svg" alt="GitHub stars"/>
-    </a>
-    <a href="https://github.com/pplulee/appleid_auto/network" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/forks/pplulee/appleid_auto.svg" alt="GitHub forks"/>
-    </a>
-    <a href="https://github.com/pplulee/apple_auto/blob/main/LICENSE" style="text-decoration:none" >
-        <img src="https://img.shields.io/github/license/pplulee/appleid_auto" alt="GitHub license"/>
-    </a>
-</p>
 <h3 align="center">中文文档 | <a href="README_en.md">English</a> </h3>
 <h3 align="center">请仔细阅读本文档以及使用说明，再使用。</h3>
 <h3 align="center">使用本项目可能需要一定的基础知识。</h3>
