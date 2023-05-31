@@ -4,8 +4,8 @@ tags:
   - warp多功能一键脚本CFwarp，支持warp在线监测守护、endpoint对端自选IP等功能，查看ChatGPT与Netflix的解锁情况
 categories:
   - 源码搭建
-date: 2022-10-10 11:11:11
-updated: 2022-12-10 11:11:11
+date: 2023-05-30 18:19:03
+updated: 2023-05-30 22:00:00
 ---
 ### 相关说明及注意点请查看[warp系列视频说明](https://www.youtube.com/playlist?list=PLMgly2AulGG-WqPXPkHlqWVSfQ3XjHNw8)
 
