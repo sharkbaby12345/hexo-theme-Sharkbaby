@@ -293,7 +293,7 @@
   </div>
   
   ```
-- source/_data/link.yml（有情链接 ）
+- source/_data/link.yml（通讯录）
 - themes/butterfly/layout/includes/footer.pug
 - themes/butterfly/source/css/_custom/custom.css
 - source/js/fomal.js
