@@ -61,7 +61,7 @@ git clone https://github.com/v2board/v2board.git ./
 sh init.sh
 ```
 根据提示完成安装
-## 6.配置站点目录及伪静态#
+## 6.配置站点目录及伪静态
 添加完成后编辑添加的站点 > Site directory > Running directory 选择 /public 保存。
 
 添加完成后编辑添加的站点 > URL rewrite 填入伪静态信息。
@@ -82,7 +82,7 @@ location ~ .*\.(js|css)?$
 }
 ```
 
-## 7.配置定时任务#
+## 7.配置定时任务
 aaPanel 面板 > Cron。
 
 > 在 Type of Task 选择 Shell Script
@@ -92,7 +92,7 @@ aaPanel 面板 > Cron。
 
 根据上述信息添加每1分钟执行一次的定时任务。
 
-## 8.启动队列服务#
+## 8.启动队列服务
 V2board的系统强依赖队列服务，正常使用V2Board必须启动队列服务。下面以aaPanel中supervisor服务来守护队列服务作为演示。
 
 aaPanel 面板 > App Store > Tools
@@ -105,7 +105,7 @@ aaPanel 面板 > App Store > Tools
 
 填写后点击Confirm添加即可运行。
 
-常见问题#
+常见问题
 Q：500错误
 A：检查站点根目录权限，递归755，保证目录有可写文件的权限，也有可能是Redis扩展没有安装或者Redis没有按照造成的。你可以通过查看storage/logs下的日志来排查错误或者开启debug模式、站点设置中关闭防跨站。
 <a href="https://v2board.com/">v2board</a>
