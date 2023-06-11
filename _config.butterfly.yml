@@ -108,11 +108,11 @@ mathjax:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://wiki.sharkbaby.top/favicon.ico
+favicon: https://wiki.012023.xyz/favicon.ico
 
 # Avatar (頭像)
 avatar:
-  img: https://wiki.sharkbaby.top/img/shark.webp
+  img: https://wiki.012023.xyz/img/shark.webp
   effect: false
 
 # Disable all banner image
@@ -155,19 +155,19 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://wiki.sharkbaby.top/img/dm1.webp
-    - https://wiki.sharkbaby.top/img/dm2.webp
-    - https://wiki.sharkbaby.top/img/dm3.webp
-    - https://wiki.sharkbaby.top/img/dm4.webp
-    - https://wiki.sharkbaby.top/img/dm5.webp
-    - https://wiki.sharkbaby.top/img/dm6.webp
-    - https://wiki.sharkbaby.top/img/dm7.webp
-    - https://wiki.sharkbaby.top/img/dm8.webp
-    - https://wiki.sharkbaby.top/img/dm9.webp
-    - https://wiki.sharkbaby.top/img/dm10.webp
-    - https://wiki.sharkbaby.top/img/dm11.webp
-    - https://wiki.sharkbaby.top/img/dm12.webp
-    - https://wiki.sharkbaby.top/img/dm13.webp
+    - https://wiki.012023.xyz/img/dm1.webp
+    - https://wiki.012023.xyz/img/dm2.webp
+    - https://wiki.012023.xyz/img/dm3.webp
+    - https://wiki.012023.xyz/img/dm4.webp
+    - https://wiki.012023.xyz/img/dm5.webp
+    - https://wiki.012023.xyz/img/dm6.webp
+    - https://wiki.012023.xyz/img/dm7.webp
+    - https://wiki.012023.xyz/img/dm8.webp
+    - https://wiki.012023.xyz/img/dm9.webp
+    - https://wiki.012023.xyz/img/dm10.webp
+    - https://wiki.012023.xyz/img/dm11.webp
+    - https://wiki.012023.xyz/img/dm12.webp
+    - https://wiki.012023.xyz/img/dm13.webp
     # ...
 
 # A simple 404 page
@@ -235,10 +235,10 @@ reward:
   enable: true
   coinAudio: https://npm.elemecdn.com/akilar-candyassets@1.0.36/audio/aowu.m4a
   QR_code:
-    - img: https://wiki.sharkbaby.top/img/VX.png
+    - img: https://wiki.012023.xyz/img/VX.png
       link:
       text: 微信
-    - img: https://wiki.sharkbaby.top/img/ZFB.png
+    - img: https://wiki.012023.xyz/img/ZFB.png
       link:
       text: 支付宝
 
@@ -716,7 +716,7 @@ aside:
       link: https://github.com/Sharkbaby12345
   card_announcement:
     enable: true
-    content: <center><b>--- 主域名 ---<br><a href="https://wiki.sharkbaby.top" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.sharkbaby.top</font></a><br>--- 备用域名 ---<br><a href="https://wiki.012023.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.012023.xyz</font></a><br>--- chatGPT ---<br>🍀<a href="https://chatgpt.sharkbaby.top" title="站长对接chatGPT官网" class="anno_content"><font color="#5ea6e5">chatgpt.sharkbaby.top</font></a>🍀</b></center>
+    content: <center><b>--- 主域名 ---<br><a href="https://wiki.012023.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.012023.xyz</font></a><br>--- 备用域名 ---<br><a href="https://wiki.012023.xyz" title="此线路部署于Vercel" class="anno_content"><font color="#5ea6e5">wiki.012023.xyz</font></a><br>--- chatGPT ---<br>🍀<a href="https://chatgpt.sharkbaby.top" title="站长对接chatGPT官网" class="anno_content"><font color="#5ea6e5">chatgpt.sharkbaby.top</font></a>🍀</b></center>
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
