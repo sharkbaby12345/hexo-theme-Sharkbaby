@@ -249,12 +249,13 @@ server {
 <ol>
 <li>1、设置管理员账户以及密码，然后进入后台管理页面。</li>
 </ol>
-<p><img src="https://img1.131213.xyz/file/083f086e6c0ea80ae6036.png" alt="083f086e6c0ea80ae6036.png"></p>
+<p><img src="/source/img/邮局1.png" alt="邮局1.png"></p>
 <ol start="2">
-<li>配置 Let’s Encrypt 证书。</li>
+<li>配置 Let’s Encrypt 证书。(手动配置证书, 第1个填 .key, 后面2个填 .crt)
+</li>
 </ol>
-<p><img src="https://img1.131213.xyz/file/665601ef7b20bb48a4795.png" alt="665601ef7b20bb48a4795.png"><br>
-<img src="https://img1.131213.xyz/file/a3b5cea8a6e3a6b61ef07.png" alt="a3b5cea8a6e3a6b61ef07.png"></p>
+<p><img src="/source/img/邮局2.png" alt="邮局2.png"><br>
+<img src="/source/img/邮局3.png" alt="邮局3.png"></p>
 <ol start="3">
 <li>创建 dkim 密钥，生成 key，添加到 DNS 解析记录，就是上面最后一条解析 _s20160910378._domainkey.your-domain.com</li>
 </ol>
@@ -264,7 +265,8 @@ server {
 <blockquote>
 <p>点击 DKIM keys，然后点击 Generate new key，生成 key，添加到 DNS 解析记录，就是上面最后一条解析 _s20160910378._domainkey.your-domain.com</p>
 </blockquote>
-<p><img src="https://img1.131213.xyz/file/8b0c46665218fb98acd17.png" alt="8b0c46665218fb98acd17.png"></p>
+<p><img src="/source/img/邮局4.png" alt="邮局4.png"></p>
+
 <h4>配置邮件客户端</h4>
 <blockquote>
 <p>第三方客户端 <code>SMTP/IMAP/POP3</code> 配置</p>
