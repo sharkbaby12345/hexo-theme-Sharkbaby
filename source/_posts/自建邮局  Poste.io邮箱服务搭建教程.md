@@ -244,7 +244,7 @@ server {
 </code></pre>
 <h5>配置poste.io</h5>
 <blockquote>
-<p>通过浏览器访问<code>https://mail.your-domain.com</code>，进入poste.io的配置页面，按照提示进行配置即可。</p>
+<p>通过浏览器访问<code>https://mail.your-domain.com</code>或者<code>http://IP:8808</code>，进入poste.io的配置页面，按照提示进行配置即可。</p>
 </blockquote>
 <ol>
 <li>1、设置管理员账户以及密码，然后进入后台管理页面。</li>
